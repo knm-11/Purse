@@ -1,1 +1,9 @@
 c:\users\oleh\documents\visual studio 2015\Projects\Purse\Purse\bin\Debug\Purse.exe.config
+D:\Herych\Purse\Purse\bin\Debug\Purse.exe.config
+D:\Herych\Purse\Purse\bin\Debug\Purse.exe
+D:\Herych\Purse\Purse\bin\Debug\Purse.pdb
+D:\Herych\Purse\Purse\bin\Debug\Money.dll
+D:\Herych\Purse\Purse\bin\Debug\Money.pdb
+D:\Herych\Purse\Purse\obj\Debug\Purse.csprojResolveAssemblyReference.cache
+D:\Herych\Purse\Purse\obj\Debug\Purse.exe
+D:\Herych\Purse\Purse\obj\Debug\Purse.pdb

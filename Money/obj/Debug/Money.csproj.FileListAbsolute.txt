@@ -1,0 +1,5 @@
+D:\Herych\Purse\Money\bin\Debug\Money.dll
+D:\Herych\Purse\Money\bin\Debug\Money.pdb
+D:\Herych\Purse\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+D:\Herych\Purse\Money\obj\Debug\Money.dll
+D:\Herych\Purse\Money\obj\Debug\Money.pdb
